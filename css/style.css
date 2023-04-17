@@ -40,7 +40,7 @@ li a {
 li a:hover {
   background-color: #000000;
 }
-section href {
+section-1 href {
    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
    background-color: #000000;
    }
@@ -55,4 +55,8 @@ section href {
 .facebook {
      float: left;
    max-width: 10%;
+}
+section-2 { 
+   font-color: #ffffff;
+   background-color: #000000;
 }
