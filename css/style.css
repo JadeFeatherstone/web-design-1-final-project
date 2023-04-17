@@ -16,6 +16,7 @@ h3 {
 }
 .girl {
    float: right;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -43,3 +44,15 @@ section href {
    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
    background-color: #000000;
    }
+.twitter {
+     float: left;
+   max-width: 10%;
+}
+.instagram {
+     float: left;
+   max-width: 10%;
+}
+.facebook {
+     float: left;
+   max-width: 10%;
+}
