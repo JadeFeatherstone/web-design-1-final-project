@@ -10,3 +10,9 @@ h3 {
    font-size: 25rem;
    font-weight: bold;
 }
+.title image {
+  max-width: 100%;
+  height: auto;
+}
+.girl {
+   float: right;
