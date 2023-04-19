@@ -2,15 +2,15 @@ html {
 box-sizing: border-box;
 }
 h1 { 
-   font-size: 62rem;
+   font-size: 30rem;
   font-weight: bold;
 }
 h2 {
-   font-size: 32rem;
+   font-size: 20rem;
    font-weight: bold;
 }
 h3 {
-   font-size: 25rem;
+   font-size: 16rem;
    font-weight: bold;
 }
 .title-image {
