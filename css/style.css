@@ -13,7 +13,7 @@ h3 {
    font-size: 25rem;
    font-weight: bold;
 }
-.title image {
+.title-image {
   max-width: 100%;
   height: auto;
 }
@@ -67,7 +67,7 @@ section-2 {
 cite {
    color: #4d4d4d
 }
-a {
+a href {
     background-color: #000000;
   border: none;
   color: #ffffff;
