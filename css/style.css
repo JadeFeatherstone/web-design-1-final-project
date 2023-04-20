@@ -54,6 +54,12 @@ section-1 {
    border: 3px black;
    column-gap: 40px;
    column-count: 3;
+    float: left;
+    width: 33.33%;
+    content: "";
+   display: table;
+    clear: both;
+    width: 100%;
    }
 span {
    width: 50px;
