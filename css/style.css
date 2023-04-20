@@ -20,6 +20,7 @@ p {
 .title-image {
   max-width: 400%;
   height: 400%;
+  object-fit: fill; 
 }
 .girl {
    float: right;
