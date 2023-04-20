@@ -56,9 +56,11 @@ section-1 {
    column-count: 3;
    }
 span {
-   float: left;
    width: 50px;
    height: 50px;
+   display: flex;
+   justify-content: center;
+   align-content: space-between;
 }
 section-2 { 
    color: #ffffff;
