@@ -18,8 +18,8 @@ p {
   float: center;
 }
 .title-image {
-  width: 1000px;
-  height: 700px;
+  max-width: 400%;
+  height: 400%;
   object-fit: fill; 
 }
 .girl {
