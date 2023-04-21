@@ -18,9 +18,13 @@ p {
   float: center;
 }
 .title-image {
-  max-width: 400%;
-  height: 400%;
+  width: 1900px;
+  height: 6200px;
   object-fit: fill; 
+  opacity: 1; 
+  display: block;
+  top: 50px; 
+  transform: scale(0.96000) translate(0px, 0px);
 }
 .girl {
    float: right;
